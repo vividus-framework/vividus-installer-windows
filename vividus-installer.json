@@ -1,0 +1,11 @@
+{
+   "version":"alpha",
+   "url":"https://github.com/vividus-framework/vividus-installer-windows/archive/master.zip",
+   "bin":[
+      [
+         "vividus-installer.ps1",
+         "vividus-installer"
+      ]
+   ],
+   "extract_dir": "vividus-installer-windows-master"
+}
